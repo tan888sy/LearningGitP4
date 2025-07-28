@@ -1,6 +1,3 @@
 # LearningGit
-<html>
-  <body>
-    <hi>This is a SCC class.</hi>
-  </body>
-</html>
+
+This is group number 4
