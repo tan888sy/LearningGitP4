@@ -1,0 +1,6 @@
+# LearningGit
+<html>
+  <body>
+    <hi>This is a SCC class.</hi>
+  </body>
+</html>
